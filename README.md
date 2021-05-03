@@ -12,7 +12,7 @@ This App demonstrates how shimmer can be used in Android.
 
 ### Usage
 
-This repo can be used by doing either of the following:
+This repo can be used in either of the following ways:
 - run 
 
 `for SSH users`
