@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Shimmer Loading</string>
+    <string name="person_icon">person icon</string>
+    <string name="testing_shimmer_loading">Testing shimmer loading</string>
+    <string name="passed">Passed</string>
+    <string name="refresh">Refresh</string>
 </resources>
